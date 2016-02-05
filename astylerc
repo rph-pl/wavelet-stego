@@ -1,0 +1,10 @@
+--indent-classes
+--indent-switches
+--indent-namespaces
+--break-blocks
+--pad-oper
+--unpad-paren
+--indent=tab=4
+--indent=force-tab=4
+-A1
+--formatted
